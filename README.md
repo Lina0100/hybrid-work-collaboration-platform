@@ -1,7 +1,8 @@
 # hybrid-work-collaboration-platform
 Figma-designed collaboration platform for hybrid work environments, created for Penn State SEDI. Enables real-time status tracking, messaging, and shared workspace interaction. Developed as part of an engineering systems design project.
 # Hybrid Work Collaboration Platform (E-Design 100)
-
+# Figma Mockup:
+https://www.figma.com/make/RodsNari7uuh2lJ60Qp340/PSU-HYBRID-UI-Mockup?t=dozMHZ3Bzi2DAvw9-1
 ## Overview
 
 This project is a collaborative platform concept designed to improve communication and coordination in hybrid work environments. It was developed as part of an engineering systems design project for Penn State's School of Engineering Design and Innovation (SEDI).
