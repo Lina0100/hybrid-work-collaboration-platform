@@ -1,4 +1,4 @@
-# hybrid-work-collaboration-platform
+# hybrid-work-collaboration-platform- PSU ORBIT
 Figma-designed collaboration platform for hybrid work environments, created for Penn State SEDI. Enables real-time status tracking, messaging, and shared workspace interaction. Developed as part of an engineering systems design project.
 # Hybrid Work Collaboration Platform (E-Design 100)
 # Figma Mockup:
