@@ -11,7 +11,7 @@ The platform was prototyped in Figma and focuses on simplifying team interaction
 
 ## Project Context
 
-This project was selected to represent its section in a larger course-wide design evaluation involving approximately 1,000 students. Our team advanced to the competitive presentation stage and received recognition for participation.
+This project was selected to represent its section in a larger course-wide design evaluation involving approximately 1,000 students. Our team advanced to the competitive presentation stage and received people's choice award.
 
 ## My Role
 
